@@ -1,2 +1,0 @@
-My README
-Shell Permissions
